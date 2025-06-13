@@ -2,6 +2,8 @@
 在replit自建uptime-kuma监控
 https://github.com/louislam/uptime-kuma/wiki/
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png
+
 Rplit个人版：
 
 <a href="https://repl.it/github/valetzx/uptimekumaonreplit">
